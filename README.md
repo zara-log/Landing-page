@@ -1,2 +1,2 @@
 # Landing-page
-Simple responsive landing page built with HTML &amp; CSS as a practice project.
+This is a landing page I built while practicing HTML and CSS. I wanted to experiment with clean layouts, responsive design, and some simple hover effects to make it feel interactive. It was a small personal project, but it helped me get comfortable with structuring pages, styling elements, and thinking about how things look on different screen sizes. Nothing fancy, just a hands on way to improve my front-end skills.
